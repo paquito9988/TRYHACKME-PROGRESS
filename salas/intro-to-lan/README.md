@@ -31,7 +31,7 @@ Esta sala introductoria de TryHackMe está enfocada en los fundamentos de las re
 
 ## 📷 Evidencia de la sala completada
 
-![completion](./completion.png)
+![completion][completionImage]
 
 ---
 
@@ -40,3 +40,6 @@ Esta sala introductoria de TryHackMe está enfocada en los fundamentos de las re
 Esta sala fue una muy buena base para entender conceptos que siempre había escuchado, pero nunca entendía bien (como el modelo OSI o qué es realmente una puerta de enlace). Me sentí cómodo con los ejemplos visuales y lo recomiendo como primer paso en ciberseguridad.
 
 ---
+
+
+![Evidencia completada](./evidence-int1.png)
